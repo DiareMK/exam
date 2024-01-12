@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "Roboto";
+    src: url("RobotoSlab-Black.ttf") format('woff') ;
+}
+
+.fonts {
+    font-family: Roboto,sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.custom-container {
+    max-width: 600px;
+
+
+}
+.left {
+    margin-left: -10px;
+}
+
+
+
+
+table {
+    margin-top: 20px;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+.result-list {
+    color: white;
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+}
